@@ -111,11 +111,9 @@ Install the requirements.txt file and run the application.
   ```
 
 ### Installation
-A number of paid API's are used:
+Following paid API's are used:
 
-1. Google translation API.
-2. Google location API.
-3. Google text to speech and speech to text API.
+1. Google OCR API.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -125,7 +123,7 @@ A number of paid API's are used:
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-The ChatBot can be deployed on any website of your choice, however, the files need to be configures appropriately.
+Initially the model has to be trained using the sample data or your own data before predictions can be made.
 
 <!---_For more examples, please refer to the [Documentation](https://example.com)_--->
 
