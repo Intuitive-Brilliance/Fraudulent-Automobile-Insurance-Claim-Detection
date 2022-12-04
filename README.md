@@ -21,7 +21,7 @@
 <h3 align="center">Fraudulent Automobile Insurance Claim Detection</h3>
 
   <p align="center">
-     Complete end-to-end application comprising of Validation, Preprocessing, Training, and Prediction pipelines to extract the data, preprocess it, and train a model to determine if the customer will default on their credit card payment for the next month.
+     Complete end-to-end application comprising of Validation, Preprocessing, Training, and Prediction pipelines to extract the data, preprocess it, and train a model to determine if the made insurance claim is fraudulant.
     <br />
 <!--<a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -69,14 +69,10 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Banks provide loans and credit cards to their customers, allowing them to make purchases and pay later. However, an increasing number of credit card users are defaulting on their payments, which poses problems for banks in terms of profitability and trust from investors and stakeholders. One solution to this problem is to identify potential credit card defaulters ahead of time and implement measures to mitigate the risk of default.
+Insurance companies suffer significant financial losses due to false insurance claims, which can be caused by staged accidents or inflating the costs and damages of a claim. However, with millions of claims made each year, it is difficult for insurance companies to manually analyze each one. One solution to this problem is to develop a classification model that can predict whether a claim is fraudulent based on certain input factors. By using such a model, insurance companies can quickly and accurately identify fraudulent claims, reducing their financial losses and improving their profitability.
 
-This can be achieved by using machine learning algorithms to identify potential defaulters before they default. By analyzing the financial history and behavior of credit card users, banks can develop predictive models that can identify customers who are at high risk of defaulting on their payments. Once potential defaulters are identified, banks can take steps to mitigate the risk of default, such as by requiring these customers to provide additional collateral or by imposing stricter limits on their credit card usage. By taking these measures, banks can protect their profitability and maintain the trust of their investors and stakeholders.
+This application allows insurance companies to identify potential fraudulent claims and take steps to prevent them, helping to protect their profitability and maintain the trust of their clients. The application includes several key components, including a validation pipeline to ensure the quality of the data, a preprocessing pipeline to prepare the data for modeling, and a training pipeline to build and evaluate predictive models. Once the models are trained, they can be used in a prediction pipeline to make predictions on new claims, helping insurance companies to quickly and accurately identify fraudulent claims.
 
-
-
-
-Try again
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
